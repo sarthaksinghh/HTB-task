@@ -11,19 +11,28 @@ function About() {
       <div className="aboutBottom">
         <h1> ABOUT US</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
-          mollitia, molestiae quas vel sint commodi repudiandae consequuntur
-          voluptatum laborum numquam blanditiis harum quisquam eius sed odit
-          fugiat iusto fuga praesentium optio, eaque rerum! Provident similique
-          accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut
-          molestias architecto voluptate aliquam nihil, eveniet aliquid culpa
-          officia aut! Impedit sit sunt quaerat, odit, tenetur error, harum
-          nesciunt ipsum debitis quas aliquid. Reprehenderit, quia. Quo neque
-          error repudiandae fuga? Ipsa laudantium molestias eos sapiente
-          officiis modi at sunt excepturi expedita sint? Sed quibusdam
-          recusandae alias error harum maxime adipisci amet laborum.
-          Perspiciatis minima nesciunt dolorem! Officiis iure rerum voluptates a
-          cumque velit
+          Pedro’s Pizza is all about quality you can trust. As one of the
+          original founding Pizza brands and the 3rd largest Pizza chain 
+          in India, our sole mission is making the freshest, tastiest and
+          funnest Pizza around. Our classic pan pizza will always be a fan
+          favorite, with a soft and chewy crust perfectly balancing out the
+          healthy tomato pure and mozzarella - cheddar blended cheese. Our 
+          authentic Italian crust for those who would prefer a light and airy
+          crust to more fully enjoy the toppings. Thin, light and delicious
+          . Our newest addition of Puree sauces will blow your mind. Choose 
+          between a spicy buffalo, sweet bbq, tangy chipotle can creamy makhni
+          to perfectly compliment your toppings and crust. Our suggestions of
+          combinations might be helpful but ultimately the power lies with you.
+          Contrary to industry standard strategy, USPizza, since 1996, has been
+          committed to growing our brand slowly and steadily. Every outlet is 
+          carefully selected on strict criteria. To be a USPizza franchise is a
+          privilege unto itself. The same commitment to product and service
+          perfection we practice is expected from our partners. Our outlets
+          designed by leading architects to reflect our philosophy of being open
+          and inviting, while putting our customer comfort on priority.
+          Everywhere we go, we hear ‘Your pizza is the tastiest pizza around,
+          why aren’t you open in my location’. The answer is simple, every outlet
+          opened is a promise to our customer, and not one we take lightly.
         </p>
       </div>
     </div>
